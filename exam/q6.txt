@@ -1,0 +1,1 @@
+invalid. The method in COMP2511AssignmentIILatePenalty will cover that in StandardUNSWLatePenalty.

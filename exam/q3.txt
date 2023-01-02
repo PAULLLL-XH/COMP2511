@@ -1,0 +1,2 @@
+Because String does not implement the Iterable interface
+String is not a instance of Collection<E>

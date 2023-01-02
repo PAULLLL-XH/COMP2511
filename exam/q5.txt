@@ -1,0 +1,5 @@
+a. purely incremental design
+b. To obtain good results it's needed proper planning and designing skills. Lack of skills will lead to
+gain losses from development of software. Problems may occur due to integration between iteration.
+If we draw a picture, using incremental model, we split it into serveral parts. If using big design up front, we separate it into serveral steps.
+Implementing different parts need good planning and design.

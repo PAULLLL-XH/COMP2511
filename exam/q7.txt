@@ -1,0 +1,15 @@
+The main problems of q7 are
+Switch Statements
+Switch statements include not only Switch-related statements, but also multi-layer if...else statements.
+The problem with switch statements is repetition, if you add a new case statement to it, you have to find
+all the switch statements and modify them.
+
+Duplicated Code
+Duplicated codes are located in different locations and have the same program structure. Duplicated codes are
+difficult to maintain. If you want to modify the code logic of one section, you need to modify it multiple times,
+and omissions are likely to occur.
+
+Solution:
+1. Use polymorphism to create different Response inheritance EntityInfoResponse,
+and return different Response for different types of data
+2. Separate deviceList and satelliteList into two different pair methods

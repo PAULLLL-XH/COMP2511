@@ -1,0 +1,4 @@
+Observer pattern
+When there is a one-to-many relationship between objects, the observer pattern (Observer Pattern)
+is used. For example, when an object is modified, objects that depend on it are automatically notified.
+The Observer pattern is a behavioral pattern.

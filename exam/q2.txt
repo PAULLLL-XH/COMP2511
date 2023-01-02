@@ -1,0 +1,7 @@
+Refused Request
+The relationship between subclasses and superclasses starts out simple, but may become more and more complex over
+time. A subclass usually needs to be tightly dependent on its parent class, but sometimes this is overkill.
+Organism is an overly generic parent class.
+Duplicated Code
+Solution:
+Create new subclasses for Organism, such as the animal class Dog and Cat inherit the animal class

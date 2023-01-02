@@ -1,0 +1,13 @@
+a)
+Immobility. The function interact has four cases, which are hard to reuse.
+This function is too long and can be separated into some parts.
+
+
+c)
+1. Observer Pattern
+Each page has 4 status, we create 4 update functions to handle this.
+
+d)
+i. Composite Pattern
+
+node can be another confluence space, it is a subcomponent.

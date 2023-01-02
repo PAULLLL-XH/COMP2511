@@ -1,0 +1,3 @@
+Inappropriate Intimacy
+It is recommended to extract associated methods or properties as much as possible and put them in
+public classes to reduce associations.
